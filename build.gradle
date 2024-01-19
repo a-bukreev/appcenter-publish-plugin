@@ -1,5 +1,5 @@
 buildscript {
-    ext.kotlin_version = '1.2.71'
+    ext.kotlin_version = '1.9.21'
     ext.okhttp = '3.11.0'
     ext.gson = '2.8.5'
 

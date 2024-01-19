@@ -3,7 +3,7 @@ package com.teamwanari.appcenter
 const val BASE_URL = "https://api.appcenter.ms"
 
 const val PATH_BASE_API = "v0.1/apps"
-const val PATH_RELEASE_UPLOAD = "release_uploads"
+const val PATH_RELEASE_UPLOAD = "uploads/releases"
 
 const val HEADER_CONTENT_TYPE = "Content-Type"
 const val HEADER_ACCEPT = "Accept"
